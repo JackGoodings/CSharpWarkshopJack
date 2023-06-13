@@ -1,0 +1,15 @@
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\bin\Debug\net6.0\Day1practice.exe
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\bin\Debug\net6.0\Day1practice.deps.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\bin\Debug\net6.0\Day1practice.runtimeconfig.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\bin\Debug\net6.0\Day1practice.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\bin\Debug\net6.0\Day1practice.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.csproj.AssemblyReference.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.AssemblyInfoInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.AssemblyInfo.cs
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.csproj.CoreCompileInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\refint\Day1practice.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\Day1practice.genruntimeconfig.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day1practice\Day1practice\obj\Debug\net6.0\ref\Day1practice.dll
