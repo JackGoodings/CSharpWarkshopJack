@@ -1,0 +1,15 @@
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\bin\Debug\net6.0\Day2PracticeCode.exe
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\bin\Debug\net6.0\Day2PracticeCode.deps.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\bin\Debug\net6.0\Day2PracticeCode.runtimeconfig.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\bin\Debug\net6.0\Day2PracticeCode.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\bin\Debug\net6.0\Day2PracticeCode.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.csproj.AssemblyReference.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.AssemblyInfoInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.AssemblyInfo.cs
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.csproj.CoreCompileInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\refint\Day2PracticeCode.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\Day2PracticeCode.genruntimeconfig.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day2PracticeCode\Day2PracticeCode\obj\Debug\net6.0\ref\Day2PracticeCode.dll
