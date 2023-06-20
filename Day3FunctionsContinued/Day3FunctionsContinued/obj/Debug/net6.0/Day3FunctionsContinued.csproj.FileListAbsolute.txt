@@ -1,0 +1,15 @@
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\bin\Debug\net6.0\Day3FunctionsContinued.exe
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\bin\Debug\net6.0\Day3FunctionsContinued.deps.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\bin\Debug\net6.0\Day3FunctionsContinued.runtimeconfig.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\bin\Debug\net6.0\Day3FunctionsContinued.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\bin\Debug\net6.0\Day3FunctionsContinued.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.csproj.AssemblyReference.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.AssemblyInfoInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.AssemblyInfo.cs
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.csproj.CoreCompileInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\refint\Day3FunctionsContinued.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\Day3FunctionsContinued.genruntimeconfig.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\Day3FunctionsContinued\Day3FunctionsContinued\obj\Debug\net6.0\ref\Day3FunctionsContinued.dll
