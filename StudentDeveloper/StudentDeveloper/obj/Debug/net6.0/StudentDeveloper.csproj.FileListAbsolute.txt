@@ -1,0 +1,15 @@
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\bin\Debug\net6.0\StudentDeveloper.exe
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\bin\Debug\net6.0\StudentDeveloper.deps.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\bin\Debug\net6.0\StudentDeveloper.runtimeconfig.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\bin\Debug\net6.0\StudentDeveloper.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\bin\Debug\net6.0\StudentDeveloper.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.csproj.AssemblyReference.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.AssemblyInfoInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.AssemblyInfo.cs
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\refint\StudentDeveloper.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\StudentDeveloper.genruntimeconfig.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\StudentDeveloper\StudentDeveloper\obj\Debug\net6.0\ref\StudentDeveloper.dll
