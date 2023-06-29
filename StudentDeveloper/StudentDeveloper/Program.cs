@@ -10,14 +10,14 @@ Console.WriteLine("Hello, World!");
 Student BruceWayne = new Student();
 Student SelinaKyle = new Student();
 
-BruceWayne.StudentName = "Bruce Wayne";
+BruceWayne.NameOfStudent = "Bruce Wayne";
 BruceWayne.StudyHoursPerWeek = 20;
 BruceWayne.StudyWeeksCompleted = 0;
 
 BruceWayne.BuildStudentInformation();
 BruceWayne.DisplayStudentInformation();
 
-SelinaKyle.StudentName = "Selina Kyle";
+SelinaKyle.NameOfStudent = "Selina Kyle";
 SelinaKyle.StudyHoursPerWeek = 10;
 SelinaKyle.StudyWeeksCompleted = 10;
 
@@ -39,17 +39,24 @@ SelinaKyle.DisplayStudentInformation();
 
 Student KitWalker = new Student();
 
-KitWalker.StudentName = "Kit Walker";
+KitWalker.NameOfStudent = "Kit Walker";
 KitWalker.StudyHoursPerWeek = 30;
-KitWalker.StudyWeeksCompleted = 30;
+KitWalker.StudyWeeksCompleted = 10;
 
 KitWalker.BuildStudentInformation();
 KitWalker.DisplayStudentInformation();
 
+Student Jack = new Student();
+Jack.NameOfStudent = "Jack";
+Jack.StudyHoursPerWeek = 5;
+Jack.StudyWeeksCompleted = 1;
+
+#region old code about estimating developer time
+
 //500 hours is the amount of time it takes to become
 //a beginner developer.
 
-int TotalNumberofHoursToBecomeDeveloper = 500;
+//int TotalNumberofHoursToBecomeDeveloper = 500;
 
 //20 hours per week
 //25 weeks to become a beginner developer.
@@ -62,4 +69,38 @@ int TotalNumberofHoursToBecomeDeveloper = 500;
 //10 weeks are already completed
 //remaining weeks = 50 - 10 = 40 weeks.
 //eventually, catwoman will be a developer in 40 weeks. 
+
+
+//int numberOfWeeksBasedOnStudentWeeklyHoursCommitment =
+//    TotalNumberofHoursToBecomeDeveloper / BruceWayne.StudyHoursPerWeek;
+
+//Console.WriteLine(numberOfWeeksBasedOnStudentWeeklyHoursCommitment);
+
+//int remainingnumberOfWeeksToStudy = 
+//    numberOfWeeksBasedOnStudentWeeklyHoursCommitment - BruceWayne.StudyWeeksCompleted;
+
+//Console.WriteLine(remainingnumberOfWeeksToStudy);
+
+//string outputforBatmanStudent = $" Student Name : {BruceWayne.NameOfStudent} will need to study for {remainingnumberOfWeeksToStudy} weeks to become a basic beginner developer";
+
+//Console.WriteLine(outputforBatmanStudent);
+
+#endregion
+
+//here, I want to start using the Developer class
+
+Developer DeveloperTesting = new Developer();
+
+DeveloperTesting.CalculatorDeveloperEstimate(BruceWayne.StudyHoursPerWeek, BruceWayne.StudyWeeksCompleted, BruceWayne.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(SelinaKyle.StudyHoursPerWeek, SelinaKyle.StudyWeeksCompleted, SelinaKyle.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(KitWalker.StudyHoursPerWeek, KitWalker.StudyWeeksCompleted, KitWalker.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
+DeveloperTesting.CalculatorDeveloperEstimate(Jack.StudyHoursPerWeek, Jack.StudyWeeksCompleted, Jack.NameOfStudent);
+DeveloperTesting.DisplayDeveloperEstimate();
+
 
