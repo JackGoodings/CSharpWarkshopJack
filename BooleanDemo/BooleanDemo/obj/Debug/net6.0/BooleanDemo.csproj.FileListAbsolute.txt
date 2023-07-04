@@ -1,0 +1,15 @@
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\bin\Debug\net6.0\BooleanDemo.exe
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\bin\Debug\net6.0\BooleanDemo.deps.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\bin\Debug\net6.0\BooleanDemo.runtimeconfig.json
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\bin\Debug\net6.0\BooleanDemo.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\bin\Debug\net6.0\BooleanDemo.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.csproj.AssemblyReference.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.AssemblyInfoInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.AssemblyInfo.cs
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.csproj.CoreCompileInputs.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\refint\BooleanDemo.dll
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.pdb
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\BooleanDemo.genruntimeconfig.cache
+C:\Users\22001378\Documents\GitHub\CSharpWarkshopJack\BooleanDemo\BooleanDemo\obj\Debug\net6.0\ref\BooleanDemo.dll
